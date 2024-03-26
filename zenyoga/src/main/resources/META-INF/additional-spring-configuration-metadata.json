@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "zenyoga.properties.secret_key",
+    "type": "java.lang.String",
+    "description": "A description for 'zenyoga.properties.secret_key'"
+  },
+  {
+    "name": "zenyoga.properties.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'zenyoga.properties.expiration'"
+  },
+  {
+    "name": "zenyoga.swagger.contact.name",
+    "type": "java.lang.String",
+    "description": "A description for 'zenyoga.swagger.contact.name'"
+  },
+  {
+    "name": "zenyoga.swagger.contact.email",
+    "type": "java.lang.String",
+    "description": "A description for 'zenyoga.swagger.contact.email'"
+  },
+  {
+    "name": "zenyoga.swagger.contact.url",
+    "type": "java.lang.String",
+    "description": "A description for 'zenyoga.swagger.contact.url'"
+  }
+]}
